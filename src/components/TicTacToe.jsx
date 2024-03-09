@@ -23,7 +23,7 @@ const winnerCombinations = [
   //coloumns
   {combo: [0, 3, 6], strikeClass: "strike-column-1"},
   {combo: [1, 4, 7], strikeClass: "strike-column-2"},
-  {combo: [2, 5, 7], strikeClass: "strike-column-3"},
+  {combo: [2, 5, 8], strikeClass: "strike-column-3"},
 
   //daigonals
   {combo: [0, 4, 8], strikeClass: "strike-diagonal-1"},
